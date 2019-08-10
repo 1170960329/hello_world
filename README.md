@@ -1,3 +1,3 @@
 # hello_world
-My first project
+My first project\n
 I have altered the main founction!
